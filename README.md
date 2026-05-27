@@ -22,9 +22,17 @@ Node.js installed
 Gemini API Key
 ⚙️ Installation
 
-Clone the repository:
+## 🌍 Live Demo
 
-git clone https://github.com/your-username/student-task-tracker.git
+🚀 Try the application here:
+
+🔗 https://ais-pre-amw7y5sdvrvnonsmanh4hx-299906108121.asia-east1.run.app
+
+---
+
+## 🧪 Development Version
+
+🔗 https://ais-dev-amw7y5sdvrvnonsmanh4hx-299906108121.asia-east1.run.app
 
 Move into the project folder:
 
