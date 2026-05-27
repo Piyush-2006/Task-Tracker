@@ -1,0 +1,6 @@
+{
+  "name": "Student Task & Project Tracker",
+  "description": "A centralized, web-based platform designed to help students and teachers manage academic projects, track individual contribution hours, evaluate balanced labor metrics, and generate audit sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
