@@ -62,7 +62,7 @@ Add screenshots of your application here.
 <img width="1251" height="867" alt="image" src="https://github.com/user-attachments/assets/67ca8533-e27f-486d-b2cc-3d7f8683b595" />
 
 
-🤝 Contributin
+🤝 Contribution
 
 Contributions are welcome. Fork the repository and submit a pull request.
 
